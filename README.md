@@ -1,4 +1,4 @@
 # Netflix-Data-Analysis
 
 ## Observation:-
-By anlysing the data and we found Netflix offers a greater variety of movies compared to TV shows, with the United States and India being the top producers. The platform predominantly caters to mature audiences and experienced a significant content surge in 2018, with dramas and international movies being the most popular genres.
+"Netflix offers a diverse collection of content, with a focus on movies over TV shows. The United States and India are the primary content producers. The platform caters mainly to mature audiences and saw a significant content increase in 2018, with a preference for dramas and international movies. Machine learning models, including Random Forest and SVM, achieved accuracies of 71% and 72% when predicting content ratings and types, respectively."
